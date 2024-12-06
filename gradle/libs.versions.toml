@@ -1,6 +1,6 @@
 [versions]
 activityKtx = "1.9.3"
-agp = "8.2.2"
+agp = "8.3.2"
 appcompat = "1.7.0"
 kotlin = "2.0.21"
 coreKtx = "1.13.0"
